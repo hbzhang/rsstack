@@ -10,6 +10,14 @@
     "angular-route": "1.3.2",
     "bootstrap": "3.1.1",
     "angular-bootstrap": "0.11.0",
-    "angular-ui-router": "#master"
+    "angular-ui-router": "#master",
+  
+     "angular-ui-calendar": "#master",
+          "angular-file-upload": "#master",
+    "angular-underscore": "#master",
+        "underscore": "#master",
+        "angucomplete": "#master",
+        "ng-focus-on": "#master"
+
   }
 }
